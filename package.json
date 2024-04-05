@@ -1,0 +1,21 @@
+{
+  "name": "aylin-at-night",
+  "displayName": "aylin-at-night",
+  "description": "syntax colors of Aylin with background of Dracula at Night",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aylin at Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aylin at Night-color-theme.json"
+      }
+    ]
+  }
+}
